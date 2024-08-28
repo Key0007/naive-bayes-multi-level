@@ -1,4 +1,4 @@
-**Instructions for Superkingdom Classification**
+## Instructions for Superkingdom Classification
 
 1. Create a new directory for training data.
 2. Set your working directory to this newly created training directory.
