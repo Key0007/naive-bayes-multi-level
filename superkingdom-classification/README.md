@@ -2,7 +2,7 @@
 
 1. Create a new directory for training data.
 2. Set your working directory to this newly created training directory.
-3. Execute generate_training_sets.py. This script will:
+3. Execute `generate_training_sets.py`. This script will:
 
 - Generate training sets by selecting 2 out of 4 available superkingdom classes (archaea, eukaryota, bacteria, and viruses).
 - Create 6 different folders, each representing a pair of superkingdoms.
