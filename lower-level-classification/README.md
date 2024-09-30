@@ -14,3 +14,5 @@
 - Set your working directory to this newly created directory.
 - Execute `create_training_lists.py`. This script will create 4 new directories for each taxa level. Each directory will have 5 `.txt` files (1 for each trial). Each txt file will contain classes that belong in the training set for each trial.
 
+4. Upon completion of all tests, export all result files to your local machine. Then, run the provided Jupyter Notebook to modify outputs and generate graphs for analysis.
+
