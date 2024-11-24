@@ -22,6 +22,10 @@ The testing data consisted of 100 random reads from each class (species) in the 
 
 Each classification produces a CSV file with the logarithmic probability of each genome in the testing sequence. For each trial, genome sequences in the training data were labeled as "known", while those not present were labeled as "unknown", simplifying this multi-modal problem into a binary classification task. ROC/AUC curves as well as distribution plots were then generated to assess novelty detection.
 
+### Results
+
+![image](https://github.com/user-attachments/assets/98a202df-0f19-4c51-bc3d-6caf2c0ac131)
+
 All scripts in this project were executed on Picotte, Drexel's main high-performance computing cluster.
 
 
