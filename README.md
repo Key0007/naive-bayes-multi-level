@@ -24,7 +24,7 @@ Each classification produces a CSV file with the logarithmic probability of each
 
 ### Results
 
-![image](https://github.com/user-attachments/assets/98a202df-0f19-4c51-bc3d-6caf2c0ac131)
+lower-level-classification/results/mean_roc_all.png
 
 All scripts in this project were executed on Picotte, Drexel's main high-performance computing cluster.
 
