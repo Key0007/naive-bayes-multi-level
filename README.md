@@ -1,7 +1,7 @@
-# naive-bayes-multi-level
+# naive-bayes-multi-level-basic
 NBC-Based Novelty Detection in Multi-Level Taxonomy
 
-This project investigates Naive-Bayes novelty detection using k-mer counting across different taxonomic levels. 
+This project investigates Naive-Bayes novelty detection using k-mer counting across different taxonomic levels. The [database](https://github.com/Key0007/naive-bayes-multi-level-basic/blob/34cc291883213991ce68f9a4426b307b5bf92c1f/lower-level-classification/data/lineage_list.csv) used for this project consisted of 4634 unique species.
 
 ## Methodology
 
