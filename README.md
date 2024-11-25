@@ -24,7 +24,7 @@ Each classification produces a CSV file with the logarithmic probability of each
 
 ### Results
 
-!(lower-level-classification/results/mean_roc_all.png)
+![plot](https://github.com/Key0007/naive-bayes-multi-level/blob/d7886cc96d66296b7eb64773d2bf2eb087ff8e14/lower-level-classification/results/mean_roc_all.png)
 
 All scripts in this project were executed on Picotte, Drexel's main high-performance computing cluster.
 
